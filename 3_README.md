@@ -81,8 +81,27 @@ an **Outlines image** displaying a numbered outline over each detected particle.
 
 ---
 
-### STEP 7 — Save the Results Table
+### STEP 7 : Save the Results Table
 I saved the Results table by navigating to **File → Save As** within the Results table window, saving the file as `DCP1A_particle_results.csv` to the designated GitHub results folder. The Summary table was saved in the same manner as `DCP1A_summary.csv`.
 
 ---
+
+## Files Included
+- **DCP1A_raw_image.tif**  
+  Raw fluorescence microscopy image of DCP1A obtained from OpenCell.
+
+- **DCP1A_processed_image.tif**  
+  Preprocessed image after background subtraction, grayscale conversion, and thresholding.
+
+- **DCP1A_particle_results.csv**  
+  Detailed particle-wise measurements including area, perimeter, and circularity.
+
+- **DCP1A_summary.csv**  
+  Summary statistics of particle analysis including total count and average size.
+
+- **README.md**  
+  Contains protocol, methodology, and explanation of the analysis.
+
+  ---
+  
 
