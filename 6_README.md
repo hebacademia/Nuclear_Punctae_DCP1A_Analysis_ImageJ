@@ -87,19 +87,22 @@ I saved the Results table by navigating to **File → Save As** within the Resul
 ---
 
 ## Files Included
-- **DCP1A_raw_image.tif**  
+- **1_DCP1A_raw_image.tif**  
   Raw fluorescence microscopy image of DCP1A obtained from OpenCell.
 
-- **DCP1A_processed_image.tif**  
+- **2_DCP1A_processed_image.tif**  
   Preprocessed image after background subtraction, grayscale conversion, and thresholding.
 
-- **DCP1A_particle_results.csv**  
+- **3_DCP1A_final_output.tif**  
+  Final output image displaying identified and quantified DCP1A punctae following particle analysis.
+
+- **4_DCP1A_particle_results.csv**  
   Detailed particle-wise measurements including area, perimeter, and circularity.
 
-- **DCP1A_summary.csv**  
+- **5_DCP1A_summary.csv**  
   Summary statistics of particle analysis including total count and average size.
 
-- **README.md**  
+- **6_README.md**  
   Contains protocol, methodology, and explanation of the analysis.
 
   ---
